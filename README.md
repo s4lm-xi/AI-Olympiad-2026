@@ -1,8 +1,6 @@
 # AI Olympiad 2026
 
-<!--
-Add funny GIFs, images, or memes here
--->
+![Potato](./not_needed/kylian_dictator.gif)
 
 ## Repository Overview
 
